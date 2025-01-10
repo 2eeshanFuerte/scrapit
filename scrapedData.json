@@ -1,56 +1,1802 @@
 [
   {
-    "name": "R.T.O Consultant",
-    "address": "Open ⋅ Closes 5 pm · 087776 50690",
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
     "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
     "website": "N/A"
   },
   {
-    "name": "DEY SERVICE (RTO SEVA)",
-    "address": "3/14 Rajendra Prasad colony.Tollygunge Near Arbindo Sangha club.M. K. Towers Lake Gardens, Post Tollygung",
-    "number": "06291201291",
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
     "website": "N/A"
   },
   {
-    "name": "RTO Consultant",
-    "address": "Open ⋅ Closes 9 pm · 092393 30490",
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
     "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
     "website": "N/A"
   },
   {
-    "name": "Verma Associate Rto Consultant",
-    "address": "Offcie, Kiran Shankar Ray Rd, near Lawyers Compound",
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
     "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
     "website": "N/A"
   },
   {
-    "name": "Niranjan Barasat RTO (Agent)",
-    "address": "PC4X+7P7, Deshbandhu Rd",
-    "number": "08240621090",
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
     "website": "N/A"
   },
   {
-    "name": "Verma Associate Rto Consultant",
-    "address": "Howrah, West Bengal",
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
     "number": "N/A",
-    "website": "https://www.facebook.com/vermaassociate101"
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
   },
   {
-    "name": "Naina Consultant",
-    "address": "Mohammad Ali Park, 1st Floor, Chuhamal Building, 131, Chittaranjan Ave",
-    "number": "08420206551",
-    "website": "https://nainaconsultant.com/"
-  },
-  {
-    "name": "Kasba RTO",
-    "address": "GC72+X9J",
-    "number": "03324420088",
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
     "website": "N/A"
   },
   {
-    "name": "RTO VEHICLES PEPAR WORK, license & MOTOR INSURANCE AGENT MY NO ( 7 SIX 8 6 ZERO 2 SIX 138",
-    "address": "Maniktala Main Rd",
-    "number": "07686026138",
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
     "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
+  },
+  {
+    "name": "Dr. Vinay Sabharwal, MBBS,MS,FICA,FAIS - Best General Surgeon in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "09811020411",
+    "website": "http://drvinaysabharwal.com/"
+  },
+  {
+    "name": "Dr Rachna Kucheria - Best MD General Physician in Delhi | Obesity/Allergy/Fever/Diabetes/Geriatrician Specialist Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "01141183001",
+    "website": "https://www.docgenie.in/general-physicians/delhi/dr-rachna-kucheria/"
+  },
+  {
+    "name": "Dr. Ankit Nijhara - Best General Physician & Diabetologist",
+    "address": "New Delhi, Delhi",
+    "number": "08595733238",
+    "website": "https://www.practo.com/delhi/doctor/dr-ankit-nijhara-general-physician?utm_medium=health_app&utm_campaign=doctor_profile_share&platform=iOS&utm_source=organic."
+  },
+  {
+    "name": "Doctors Hub - Super Speciality Clinic",
+    "address": "New Delhi, Delhi",
+    "number": "01147405000",
+    "website": "http://mydoctorshub.com/"
+  },
+  {
+    "name": "Dr Kapil Dev Chhabra, Critical Care Physician in Delhi, Doctor at home, Doctor near me",
+    "address": "Delhi",
+    "number": "07840070090",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Renuka Tele-clinic ( best doctor in Delhi)",
+    "address": "Delhi",
+    "number": "09971231103",
+    "website": "https://sites.google.com/view/dr-renuka-tele-clinic"
+  },
+  {
+    "name": "Dr. Ankit Tyagi (Stethohope Clinic) | General Physician Near Me | Best Physician In Delhi",
+    "address": "Delhi",
+    "number": "09311850112",
+    "website": "https://stethohopeclinic.com/dr-ankit-tyagi-internist/"
+  },
+  {
+    "name": "The Real Good Doctor",
+    "address": "New Delhi, Delhi",
+    "number": "09311233277",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Priyam Bhatt- Consultant Physician In New Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drpriyambhatt.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "Singhal Clinic",
+    "address": "Delhi",
+    "number": "01146082550",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Nitul Thapar MD (Physician)& Dr Jyoti Thapar MD (Gynae) | Kamlesh Medical Centre",
+    "address": "Delhi",
+    "number": "09810317641",
+    "website": "https://www.eka.care/doctor/nitul-thapar?utm_source=gmb&utm_medium=website&utm_campaign=032023"
+  },
+  {
+    "name": "Dr. Om Prakash (MBBS, MD-Internal Medicine, FCPNC) | General Physician & Cardiologist | Heart Disease and Diabetes Specialist",
+    "address": "Delhi, Uttar Pradesh",
+    "number": "07982454504",
+    "website": "https://cardiophysician.in/"
+  },
+  {
+    "name": "Dr Vikram Sabharwal-Sr Consultant Physician & Diabetologist (The Guardian Clinics)",
+    "address": "Delhi",
+    "number": "09310266651",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Rajesh Ganesh Parthsarthi- General Physician in Delhi",
+    "address": "New Delhi, Delhi",
+    "number": "N/A",
+    "website": "https://drrajeshganeshparthsarthi.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu"
+  },
+  {
+    "name": "The Doctor's Nesst - on Apollo 24|7",
+    "address": "New Delhi, Delhi",
+    "number": "01145065037",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr.Nitin Garg",
+    "address": "New Delhi, Delhi",
+    "number": "08383819383",
+    "website": "http://www.doctornitingarg.com/"
+  },
+  {
+    "name": "Dr. Gitanjali Kochar | Best General Physician in Delhi | Fever & Diabetes Doctor",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Gitanjali-Kochar-74dc43e8-76fa-411b-8d9e-bf4d39740500"
+  },
+  {
+    "name": "Dr Kamal Karnani - General Physician",
+    "address": "New Delhi, Delhi",
+    "number": "09818659195",
+    "website": "N/A"
+  },
+  {
+    "name": "Dr. Pankaj",
+    "address": "Delhi",
+    "number": "09818548010",
+    "website": "http://navedahealthcare.com/"
+  },
+  {
+    "name": "Best General Physician - Dr. Ajay K Sinha, 30+ yrs of Exp | Fever & Diabetes Doctor | Delhi",
+    "address": "South Delhi, Delhi",
+    "number": "08046961837",
+    "website": "https://www.apollo247.com/doctors/dr-Ajay%20K-Sinha-5f092b45-4582-40e3-85ba-4607876d9643"
   }
 ]
